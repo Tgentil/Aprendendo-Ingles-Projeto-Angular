@@ -1,0 +1,11 @@
+p {
+  font-size: 25px;
+}
+
+.derrota {
+  color: red;
+}
+
+.vitoria {
+  color: green;
+}
